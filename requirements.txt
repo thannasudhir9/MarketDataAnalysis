@@ -1,0 +1,4 @@
+flask
+yfinance
+matplotlib
+#python -m pip install -r requirements.txt
